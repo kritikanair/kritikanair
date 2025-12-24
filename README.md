@@ -55,8 +55,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritikanair&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikanair&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritikanair&show_icons=true&theme=tokyonight" alt ="Kritika's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikanair&layout=compact&theme=tokyonight" alt ="Top-langs" />
 </p>
 
 ---
